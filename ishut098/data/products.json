@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "name":"One plus 6t",
+        "price": 45000
+    },
+    {
+        "id":2,
+        "name":"Nokia 7 plus",
+        "price": 2100
+    }
+]
